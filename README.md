@@ -1,5 +1,5 @@
 # Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/HeroLeam/projeto-pokedex/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/HeroLeam/szpc9-projeto-xmen/blob/main/LICENSE) 
 
 # Sobre o projeto
 
