@@ -6,10 +6,8 @@ Projeto de uma tela de seleção de personagem dos X-Mens na 9ª edição da **S
 
 O projeto consiste em simular uma tela de seleção de personagem dos X-Mens.
 
-## Layout web - Modo claro
-![Web 1]()
-## Layout web - Modo escuro
-![Web 2]()
+## Layout web
+![Web 1](https://raw.githubusercontent.com/HeroLeam/szpc9-projeto-xmen/main/src/assets/web.gif)
 
 # Tecnologias utilizadas
 ## Front end
