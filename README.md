@@ -17,6 +17,6 @@ O projeto consiste em simular uma tela de seleção de personagem dos X-Mens.
 
 # Autor
 
-Thiago Leoni Amaral
+Thiago Leoni Amaral aka Heroleam
 
-https://linktr.ee/heroleam
+https://heroleam.github.io/herofield
